@@ -1,2 +1,2 @@
-# JavaScript-Practice
- 
+# javascript-practice
+ this is a practice repo.
