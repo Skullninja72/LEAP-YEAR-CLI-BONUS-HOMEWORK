@@ -1,2 +1,2 @@
 # JAVASCRIPT-PRACTICE
- THIS IS A PRACTICE REPO>
+ This is a repo made for self practice.
